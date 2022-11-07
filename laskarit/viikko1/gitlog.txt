@@ -1,0 +1,113 @@
+commit f3c3bdb515db25c62af00b84645073e1c01a50c0
+Author: Aku Lampila <akulampila@hotmail.com>
+Date:   Mon Nov 7 18:23:14 2022 +0200
+
+    poisto ja nimeäminen
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit a0731d2b63ce638f8379b907fe00e4f85b2f20e4
+Author: Aku Lampila <akulampila@hotmail.com>
+Date:   Mon Nov 7 18:18:57 2022 +0200
+
+    lisätty tiedostot
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit dbf8864905412b42965f774090c650116c43437d
+Author: Aku Lampila <akulampila@hotmail.com>
+Date:   Mon Nov 7 17:49:18 2022 +0200
+
+    Muokattu 1 ja 3 tekstiä
+
+ eka.txt    | 4 ++--
+ kolmas.txt | 4 +++-
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+
+commit 8ed0ce8b2a7896b67bba8453e46628e093d1f4f9
+Author: Aku Lampila <akulampila@hotmail.com>
+Date:   Mon Nov 7 17:43:56 2022 +0200
+
+    tiedosto -> eka
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit af98df5e3df8bfdf18d827ef541aad80c39be987
+Author: Aku Lampila <akulampila@hotmail.com>
+Date:   Mon Nov 7 17:42:37 2022 +0200
+
+    poistettu tiedosto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 8ce4f16e6bc4b22c16a63deccfd752c71bfa5390
+Author: Aku Lampila <akulampila@hotmail.com>
+Date:   Mon Nov 7 17:38:35 2022 +0200
+
+    muokattu tekstiä
+
+ tiedosto.txt | 4 +---
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+
+commit 268b37830b94a19aeeb1b264444edce635298a1c
+Author: Aku Lampila <akulampila@hotmail.com>
+Date:   Mon Nov 7 17:36:52 2022 +0200
+
+    lisätty tekstiä
+
+ tiedosto.txt | 12 ++++++++++++
+ 1 file changed, 12 insertions(+)
+
+commit b7a950886e4428e981b8170b9514acfb64fc6413
+Author: Aku Lampila <akulampila@hotmail.com>
+Date:   Mon Nov 7 17:32:39 2022 +0200
+
+    Lisätty stuff
+
+ stuff/tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f9da5739f458fb070bf65dd3a3e453630fd27e34
+Author: Aku Lampila <akulampila@hotmail.com>
+Date:   Mon Nov 7 17:31:24 2022 +0200
+
+    muokattu tekstiä 2 ja 3
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 4aca0b74aefcd1dd56743316762d2de1448e2b0d
+Author: Aku Lampila <akulampila@hotmail.com>
+Date:   Mon Nov 7 17:29:48 2022 +0200
+
+    Lisätty kolmas
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit a8b1e97d1054566fdaaeaaf16b1b6876c556a324
+Author: Aku Lampila <akulampila@hotmail.com>
+Date:   Mon Nov 7 17:28:28 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 55314c56e30986a390f1322fc1a13ba56a640b99
+Author: Aku Lampila <akulampila@hotmail.com>
+Date:   Mon Nov 7 17:26:19 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
