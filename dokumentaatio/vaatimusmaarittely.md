@@ -1,25 +1,35 @@
-# Shakkipelien analysointisovellus
+# Yksinkertainen ajopeli
 
-** Sovelluksen tarkoitus**
+**Sovelluksen tarkoitus**
 
-Sovellus lukee shakkipelitiedostoja ja värittää niiden pohjalta shakkilautaa. Käyttäjä voi näin tutkia, mitkä ovat suosituimmat siirrot missäkin tilanteessa, jos tiedostoja on tarpeeksi.
+Sovellus generoi loputonta reittiä, jonka seiniä pitää väistellä.
 
-** Suunnitelma toiminnallisuudesta **
+**Implementoitu toiminnallisuus**
 
-- Shakkilauta, jolla voi liikutella nappuloita vapaasti, peruttaa tehdyn siirron ja palata alkutilanteeseen.
+**Implementoimaton toiminnallisuus**
 
-- Vierellä lista nykyisen tilanteen sisältäneistä peleistä.
+- Käyttäjä voi ohjata ajoneuvoa a/e, a/d tai nuolinäppäimillä.
 
-- Shakkilaudan ruudut värittyvät sen mukaan kuinka monessa pelissä kyseinen siirto on pelattu.
+- Reitti generoituu satunnaisesti tien yläpäästä.
 
-- Nappulaa painettaessa vain kyseisen nappulan siirrot näkyvät.
+- Seinään osuminen lopettaa pelikierroksen.
 
-- Tyhjää ruutua painettaessa kyseiseen ruutuun mahdollisesti siirtyvät nappulat värittyvät.
+- Sovellus mittaa pelikierroksella kulunutta aikaa.
 
-** Suunnitelma jatkokehitysideoista **
+- Reitti kapenee, mitä pidempää pelaa.
 
-- Uusien variaatioiden tekeminen ja tallentaminen
+- Reitti generoituu nopeammin, mitä pidempää pelaa.
 
-- valinnainen rajaus vain sallittuihin siirtoihin 
+- Sovellus laskee pisteitä ajetun matkan mukaan.
 
-- Mahdollisuus painaa listasta mitä vain pelattua peliä ja siirtyä vain sen analysointiin. Painamalla uudestaan palataan kaikki pelit sisältävää tilaan.
+- Jos pisteet ovat 10 parhaan joukossa, on ne mahdollista tallentaa muodossa "pisteet, nimi".
+
+- Ajoneuvo kääntyy hienosti visuaalisesti käännettäessä.
+
+- Tielle generoituu mahdollisesti, lisäpisteitä ja/tai nopeutta tilapäisesti kasvattavia turboja.
+
+- Musiikki, joka kasvaa pelin edetessä pienestä suureksi.
+
+- Mahdollisuus voitta peli, maali generoituu, kun peli olisi muuttumassa mahdottoman vaikeaksi.
+
+- Valikko, missä mahdollista vaihtaa asetuksia, katsoa huipputuloksia, lopettaa peli tai aloittaa uusi kierros.
