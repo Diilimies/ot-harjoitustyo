@@ -6,6 +6,8 @@ Sovellus generoi loputonta reittiä, jonka seiniä pitää väistellä.
 
 **Implementoitu toiminnallisuus**
 
+- Käyttäjä voi ohjata ajoneuvoa nuolinäppäimillä.
+
 **Implementoimaton toiminnallisuus**
 
 - Käyttäjä voi ohjata ajoneuvoa a/e, a/d tai nuolinäppäimillä.
